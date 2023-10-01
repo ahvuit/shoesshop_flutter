@@ -1,6 +1,7 @@
 # shoes_shop
 
-A new Flutter project.
+Ứng dụng App Mobile viết bằng Flutter được thực hiện vào năm 4 Đại học môn đồ án chuyên ngành.
+- Ngoài những tính năng của 1 E-Commerce thì còn có chức năng tìm kiếm bằng hình ảnh (neuron neural network), gợi ý những sản phẩm mua cùng nhau (Apriori).
 
 ## Getting Started
 
